@@ -53,7 +53,7 @@
       href="https://instagram.com/Iam_alexxander_"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/alerxses-22092C?style=flat-square&logo=x"
+        src="https://img.shields.io/badge/Iam_alexxander_-22092C?style=flat-square&logo=x"
         alt="twitter" />
     </a>
     <a
