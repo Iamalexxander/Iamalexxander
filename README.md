@@ -17,7 +17,7 @@
 
   <h2>
     <picture
-      ><img src="./assets/about_me.gif" width="25px"
+      ><img src="./assets/beerus-dbz.gif" width="25px"
     /></picture>
     / About me /
   </h2>
