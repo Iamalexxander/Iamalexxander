@@ -23,11 +23,9 @@
   </h2>
 
   <ul>
-    <li>💻 I'm a Frontend Developer.</li>
-    <li>🚀 I'm an Industrial Manager.</li>
-    <li>👨‍👩‍👧‍👧 I like working in a team.</li>
-    <li>🤘🏽🎸 I like classic rock.</li>
-    <li>☕ I love coffee.</li>
+    <li>💻⏳ Developer in process.</li>
+    <li>👻​🎮​ I like videogames.</li>
+    <li>🍵 I love tea.</li>
   </ul>
 
   <h2>
