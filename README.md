@@ -57,19 +57,12 @@
         alt="twitter" />
     </a>
     <a
-      href="https://www.linkedin.com/in/ale-roses/"
+      href="https://github.com/Iamalexxander"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/aleroses-black?style=social&logo=linkedin"
-        t="linkedin" />
-    </a>
-    <a
-      href="https://github.com/aleroses"
-      target="_blank">
-      <img
-        src="https://img.shields.io/badge/aleroses-black?style=flat-square&logo=github"
+        src="https://img.shields.io/badge/Iamalexxander-black?style=flat-square&logo=github"
         t="github" />
     </a>
-    
+   
   </div>
 </div>
