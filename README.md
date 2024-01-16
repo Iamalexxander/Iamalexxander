@@ -29,14 +29,14 @@
     <picture
       ><img src="./assets/goku-dance.gif" width="25px"
     /></picture>
-    / Current skills /
+    / Learning /
   </h2>
 
   <div>
     <img src="./assets/html.gif" width="50px" />
     <img src="./assets/css.gif" width="50px" />
+    <img src="./assets/C++.gif" width="50px" />
     <img src="./assets/php.gif" width="80px" />
-    <img src="./assets/react.gif" width="50px" />
   </div>
 
 <h2>
