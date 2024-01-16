@@ -30,7 +30,7 @@
 
   <h2>
     <picture
-      ><img src="./assets/skills.gif" width="25px"
+      ><img src="./assets/goku-dance.gif" width="25px"
     /></picture>
     / Current skills /
   </h2>
