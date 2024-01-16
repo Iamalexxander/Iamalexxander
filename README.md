@@ -53,8 +53,7 @@
       href="https://instagram.com/Iam_alexxander_"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/Iam_alexxander_-22092C?style=flat-square&logo=x"
-        alt="twitter" />
+<img alt="Static Badge" src="https://img.shields.io/badge/Iam_alexxander_-black?style=social&logo=instagram&logoColor=RGB%3A%20138%2C%2058%2C%20185">
     </a>
     <a
       href="https://github.com/Iamalexxander"
