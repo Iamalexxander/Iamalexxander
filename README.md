@@ -35,7 +35,7 @@
   <div>
     <img src="./assets/html.gif" width="50px" />
     <img src="./assets/css.gif" width="50px" />
-    <img src="./assets/cc++.gif" width="60px" />
+    <img src="./assets/cc++.gif" width="50px" />
     <img src="./assets/php.gif" width="80px" />
   </div>
 
