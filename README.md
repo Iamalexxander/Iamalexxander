@@ -8,7 +8,7 @@
 
 <img
     align="right"
-    width="320"
+    width="330"
     alt="Shimarin"
     src="./assets/dead.gif" />
 
