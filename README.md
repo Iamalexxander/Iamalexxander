@@ -1,10 +1,9 @@
 <div>
   <div align="top">
-    <a href="https://git.io/typing-svg"
-      ><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=800&color=4F46E5&random=false&width=600&height=60&lines=Welcome!+I'm+Ale+Roses;Software+Engineering+is+my+2nd+career.+;I+like+to+learn+things+%F0%9F%A4%97"
-        alt="Typing SVG"
-    /></a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=25&pause=800&random=false&width=600&height=60&lines=Hello!+I+am+Alexander+Mena+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%E2%80%8B%F0%9F%91%8B%E2%80%8B;I+like+to+learn+to+program+%F0%9F%96%A5%EF%B8%8F%E2%80%8B%F0%9F%92%BB%E2%80%8B%F0%9F%96%B1%EF%B8%8F;I+like+video+games+and+sports+%F0%9F%8E%AE%E2%80%8B%E2%9A%BD%E2%80%8B%F0%9F%A5%8A%E2%80%8B" alt="Typing SVG" />
+    </a>
+
   </div>
 
 <img
