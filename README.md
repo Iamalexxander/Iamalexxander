@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div>
   <div align="top">
     <a href="https://git.io/typing-svg"
