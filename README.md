@@ -1,5 +1,5 @@
 ### Hi there 👋
-[goku-dance](https://github.com/Iamalexxander/Iamalexxander/assets/156700714/094579a8-7d14-4539-854e-d701e5bcfd57)
+
 
 <!--
 **Iamalexxander/Iamalexxander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
