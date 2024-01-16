@@ -42,10 +42,10 @@
 <h2>
   <picture
     ><img
-      src="./assets/hollor_knight3.gif"
+      src="./assets/deadspace-dead.gif"
       width="25px"
   /></picture>
-  / How to reach me /
+/ My social networks /
 </h2>
 
 <div align="left">
