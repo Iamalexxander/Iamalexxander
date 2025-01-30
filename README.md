@@ -62,10 +62,10 @@
         t="github" />
     </a>
     <a
-      href="https://www.facebook.com/Iamalexxander"
+      href="https://www.facebook.com/alexander.mena.142/"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/Iamalexxander-blue?style=flat-square&logo=facebook"
+        src="https://img.shields.io/badge/Alexxander-blue?style=flat-square&logo=facebook"
         alt="Facebook" />
     </a>
   </div>
