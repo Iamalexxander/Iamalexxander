@@ -61,6 +61,12 @@
         src="https://img.shields.io/badge/Iamalexxander-black?style=flat-square&logo=github"
         t="github" />
     </a>
-   
+       <a
+      href="https://github.com/Iamalexxander"
+      target="_blank">
+      <img
+        src="https://img.shields.io/badge/Iamalexxander-black?style=flat-square&logo=github"
+        t="Facebook" />
+    </a>
   </div>
 </div>
