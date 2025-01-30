@@ -65,7 +65,7 @@
       href="https://www.facebook.com/Iamalexxander"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/Iamalexxander-black?style=flat-square&logo=facebook"
+        src="https://img.shields.io/badge/Iamalexxander-blue?style=flat-square&logo=facebook"
         alt="Facebook" />
     </a>
   </div>
